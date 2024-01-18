@@ -1,4 +1,4 @@
-# 📟 Pokedex
+# 📟 Projeto Pokedex
 
 ## 📃 Descrição
 
