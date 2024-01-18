@@ -27,8 +27,6 @@ Este projeto foi feito seguindo os cursos **Criando um Projeto com HTML/CSS para
 ## ![image](https://github.com/LuFernds/js-developer-pokedex/assets/145951329/1164b9f4-caee-411c-98ff-d146e426d6b2)
  Imagem do site
 
-![Imagem do site com alguns Pokemons](./assets/images/index-screenshot.png)
-
 ## 📌 Mais informações
 
 Este projeto faz parte da trilha de Javascript do bootcamp **NTT DATA Diversidade em Tech** da **Digital Innovation One**. O mesmo projeto postado no Github foi entregue, como pedido, na plataforma da DIO.
