@@ -27,8 +27,6 @@ Este projeto foi feito seguindo os cursos **Criando um Projeto com HTML/CSS para
 ## ![image](https://github.com/LuFernds/js-developer-pokedex/assets/145951329/1164b9f4-caee-411c-98ff-d146e426d6b2)
  Imagem do site
 
-Veja como o site ficou, ao vivo, [clicando aqui](https://gracilianoog.github.io/dio-desafio-pokedex/ "Visitar o site da Pokedex").
-
 ![Imagem do site com alguns Pokemons](./assets/images/index-screenshot.png)
 
 ## 📌 Mais informações
